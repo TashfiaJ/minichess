@@ -1,8 +1,5 @@
 Technology Used: Python
 
-Introduction:
-6x5 Minichess is a compact and fast-paced variant of traditional chess, played on a smaller 6x5 board. It offers strategic depth and quick decision-making, making it an exciting twist on the classic game. With fewer pieces and a condensed battlefield, it's a challenging and engaging chess experience.
-
 Features:
 1. MiniChess 6X5 board game(Quick-Chess variant)
 2. Choosing between playing against human and computer
